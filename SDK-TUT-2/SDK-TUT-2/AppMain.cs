@@ -11,6 +11,47 @@ using Sce.PlayStation.HighLevel.GameEngine2D.Base;
 
 using Sce.PlayStation.Core.Imaging;
 
+/*
+ * How to use this..
+ * 
+Left directional key 
+Cursor key: ←
+
+Up directional key 
+Cursor key: ↑
+
+Right directional key 
+Cursor key: →
+
+Down directional key 
+Cursor key: ↓
+
+Square button 
+Alphabet: A
+
+Triangle button 
+Alphabet: W
+
+Circle button 
+Alphabet: D
+
+Cross button 
+Alphabet: S
+
+SELECT button 
+Alphabet: Z
+
+START button 
+Alphabet: X
+
+L button 
+Alphabet: Q
+
+R button 
+Alphabet: E
+
+*/
+
 namespace SDKTUT2
 {
 	public class AppMain
