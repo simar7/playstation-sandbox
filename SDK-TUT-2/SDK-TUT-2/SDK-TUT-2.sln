@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK-TUT-2", "SDK-TUT-2.csproj", "{DF13E38C-8001-4C51-86C2-DCDB6627271A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF13E38C-8001-4C51-86C2-DCDB6627271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF13E38C-8001-4C51-86C2-DCDB6627271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF13E38C-8001-4C51-86C2-DCDB6627271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF13E38C-8001-4C51-86C2-DCDB6627271A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SDK-TUT-2.csproj
+	EndGlobalSection
+EndGlobal
